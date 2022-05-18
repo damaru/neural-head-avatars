@@ -12,4 +12,4 @@
 	url = https://github.com/PeterL1n/RobustVideoMatting.git
 [submodule "deps/video-head-tracker"]
 	path = deps/video-head-tracker
-	url = https://github.com:philgras/video-head-tracker.git
+	url = https://github.com/philgras/video-head-tracker.git
